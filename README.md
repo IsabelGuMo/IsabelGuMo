@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Isabel, I’m currently learning Full Stack Developer at Upgrade Hub
+
+![image](https://user-images.githubusercontent.com/95292801/150856600-075ffd7a-4623-436a-bfdd-4e37ca778722.png)
+
 
 <!--
 **IsabelGuMo/IsabelGuMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
