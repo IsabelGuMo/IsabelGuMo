@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Isabel, I’m currently learning Full Stack Developer at Upgrade Hub
 
 <div align="center" dir="auto">
-<a target="_blanck" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/95292801/150856600-075ffd7a-4623-436a-bfdd-4e37ca778722.png"></a>
-<img width="250px" src="https://user-images.githubusercontent.com/95292801/150856600-075ffd7a-4623-436a-bfdd-4e37ca778722.png" data-canonical-src="https://i.imgur.com/99BZ8IU.gif" style="max-width: 100%;">
+<a target="_blanck" rel="noopener noreferrer" href="http://www.epc-ucb.edu.bo/mfm/images/smilies/itchy-n-scratchy.gif"></a>
+<img width="250px" src="http://www.epc-ucb.edu.bo/mfm/images/smilies/itchy-n-scratchy.gif" data-canonical-src="https://i.imgur.com/99BZ8IU.gif" style="max-width: 100%;">
 </div>
 
 <!--
