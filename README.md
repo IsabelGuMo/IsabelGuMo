@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Isabel, I’m currently learning Full Stack Developer at Upgrade Hub
+### Hi there 👋 I'm Isabel, I’m currently learning Full Stack Developer 
 
 <div align="center" dir="auto">
 <a target="_blanck" rel="noopener noreferrer" href="http://www.epc-ucb.edu.bo/mfm/images/smilies/itchy-n-scratchy.gif"></a>
