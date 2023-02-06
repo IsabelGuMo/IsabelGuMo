@@ -3,7 +3,7 @@
 <div align="center" dir="column">
 <a target="_blanck" rel="noopener noreferrer" href="http://www.epc-ucb.edu.bo/mfm/images/smilies/itchy-n-scratchy.gif"></a>
 <img width="250px" src="http://www.epc-ucb.edu.bo/mfm/images/smilies/itchy-n-scratchy.gif" data-canonical-src="https://i.imgur.com/99BZ8IU.gif" style="max-width: 100%;">
-  <img width="250px" src="[https://www.pngitem.com/pimgs/m/78-787363_transparent-javascript-icon-png-html-css-js-png.png](https://res.cloudinary.com/dayw7rwf5/raw/upload/v1675700655/software%20icons/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145_ase6dn)" style="max-width: 100%;">
+  <img width="250px" src="https://res.cloudinary.com/dayw7rwf5/image/upload/v1675700851/software%20icons/Captura_de_pantalla_2023-02-06_a_las_17.25.51_k64bet.png" style="max-width: 100%;">
   <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png">
   <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
 
