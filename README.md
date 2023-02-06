@@ -4,7 +4,8 @@
    <a target="_blanck" rel="noopener noreferrer" href="http://www.epc-ucb.edu.bo/mfm/images/smilies/itchy-n-scratchy.gif"></a>
    <img width="250px" src="http://www.epc-ucb.edu.bo/mfm/images/smilies/itchy-n-scratchy.gif" data-canonical-src="https://i.imgur.com/99BZ8IU.gif"        style="max-width: 100%;">
 </div>
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/cristina-hidalgo-l%C3%B3pez-3898b1128/](https://linkedin.com/in/https://www.linkedin.com/in/isabel-gutierrez-moreno/)
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/isabel-gutierrez-moreno/" target="_blank"><img src="https://img.shields.io/badge/linkedin&logoColor=white"/>
+   
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/isabel-gutierrez-moreno/) 
 
 ## 💻 Languages && Tecnologies:
