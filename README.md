@@ -1,9 +1,10 @@
 ### Hi there 👋 I'm Isabel, I’m currently Jr.Full Stack Developer 
 
 <div align="center" dir="column">
-<a target="_blanck" rel="noopener noreferrer" href="http://www.epc-ucb.edu.bo/mfm/images/smilies/itchy-n-scratchy.gif"></a>
-<img width="250px" src="http://www.epc-ucb.edu.bo/mfm/images/smilies/itchy-n-scratchy.gif" data-canonical-src="https://i.imgur.com/99BZ8IU.gif" style="max-width: 100%;">
- 
+   <a target="_blanck" rel="noopener noreferrer" href="http://www.epc-ucb.edu.bo/mfm/images/smilies/itchy-n-scratchy.gif"></a>
+   <img width="250px" src="http://www.epc-ucb.edu.bo/mfm/images/smilies/itchy-n-scratchy.gif" data-canonical-src="https://i.imgur.com/99BZ8IU.gif"        style="max-width: 100%;">
+</div>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/cristina-hidalgo-l%C3%B3pez-3898b1128/](https://linkedin.com/in/https://www.linkedin.com/in/isabel-gutierrez-moreno/)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/isabel-gutierrez-moreno/) 
 
 ## 💻 Languages && Tecnologies:
@@ -11,7 +12,7 @@
   
 ## Statistics 🧐
 ![](https://github-readme-stats.vercel.app/api?username=isabelgumo)
-</div>
+
 
 <!--
 **IsabelGuMo/IsabelGuMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
